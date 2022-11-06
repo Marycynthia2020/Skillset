@@ -1,0 +1,64 @@
+body {
+    width: 80vw;
+    height: 100vh;
+    margin: auto;
+    padding: 20px;
+}
+
+.full {
+    background-color: gray;
+    height: 30px;
+    
+}
+
+.HTML {
+    background-color: blue;
+    height: 30px;
+    text-align: right;
+}
+
+.CSS {
+    background-color: brown;
+    width: 50%;
+    height: 30px;
+    text-align: right;
+}
+
+.js {
+    background-color: blueviolet;
+    width: 0.5%;
+    height: 30px;
+    text-align: right;
+}
+
+.python {
+    background-color: green;
+    width: 0.5%;
+    height: 30px;
+    text-align: right;
+}
+
+.PHP {
+    background-color: palevioletred;
+    width: 0.5%;
+    height: 30px;
+    text-align: right;
+}
+
+.speak {
+    background-color: orange;
+    width: 90%;
+    height: 30px;
+    text-align: right;
+}
+
+.Research {
+    background-color: darkcyan;
+    width: 95%;
+    height: 30px;
+    text-align: right;
+}
+
+.HTML p , .CSS p , .js p , .python p , .PHP p , .speak p , .Research p {
+    padding: 5px;
+}
